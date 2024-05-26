@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryApp.Web", "InMemoryApp.Web\InMemoryApp.Web.csproj", "{163EC796-42A0-4C88-9AEF-1DF7FE938CA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.API", "Redis.API\Redis.API.csproj", "{A4054376-8BE1-477D-9417-2726B7A245E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{163EC796-42A0-4C88-9AEF-1DF7FE938CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{163EC796-42A0-4C88-9AEF-1DF7FE938CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{163EC796-42A0-4C88-9AEF-1DF7FE938CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4054376-8BE1-477D-9417-2726B7A245E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4054376-8BE1-477D-9417-2726B7A245E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4054376-8BE1-477D-9417-2726B7A245E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4054376-8BE1-477D-9417-2726B7A245E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
